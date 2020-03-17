@@ -1,0 +1,11 @@
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\bin\Debug\netcoreapp3.1\UdemyClassesIntermediate.exe
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\bin\Debug\netcoreapp3.1\UdemyClassesIntermediate.deps.json
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\bin\Debug\netcoreapp3.1\UdemyClassesIntermediate.runtimeconfig.json
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\bin\Debug\netcoreapp3.1\UdemyClassesIntermediate.runtimeconfig.dev.json
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\bin\Debug\netcoreapp3.1\UdemyClassesIntermediate.dll
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\bin\Debug\netcoreapp3.1\UdemyClassesIntermediate.pdb
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\obj\Debug\netcoreapp3.1\UdemyClassesIntermediate.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\obj\Debug\netcoreapp3.1\UdemyClassesIntermediate.AssemblyInfoInputs.cache
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\obj\Debug\netcoreapp3.1\UdemyClassesIntermediate.AssemblyInfo.cs
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\obj\Debug\netcoreapp3.1\UdemyClassesIntermediate.dll
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\UdemyClassesIntermediate\obj\Debug\netcoreapp3.1\UdemyClassesIntermediate.pdb
