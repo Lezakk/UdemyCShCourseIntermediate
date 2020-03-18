@@ -23,17 +23,16 @@ namespace UdemyClassesIntermediate_Tests
         {
             _stopWatch.StartStopWatch();
             Thread.Sleep(time); // 5 sec 
-            var result =_stopWatch.StopStopWatch();
-            Assert.That(Math.Round(result.TotalSeconds,1),Is.EqualTo(TimeSpan.FromMilliseconds(time).TotalSeconds));
+            var result = _stopWatch.StopStopWatch();
+            Assert.That(Math.Round(result.TotalSeconds, 1), Is.EqualTo(TimeSpan.FromMilliseconds(time).TotalSeconds));
         }
 
         [Test]
         public void Start_WhenStartMethodIsCalledTwiceInTheRow_ThrowException()
         {
             _stopWatch.StartStopWatch();
-            _stopWatch.StartStopWatch();
-            Assert.That(() => );
-        }
+            Assert.Throws<InvalidOperationException>(() => _stopWatch.StartStopWatch());
 
+        }
     }
-}
+}   
