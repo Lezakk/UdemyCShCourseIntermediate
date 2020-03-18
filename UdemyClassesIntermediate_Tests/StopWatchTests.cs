@@ -22,7 +22,7 @@ namespace UdemyClassesIntermediate_Tests
         public void Start_WhenStartMethodCalledStartTimerAndWhenStopMethodCalledStopTimer_ReturnsTimeFromStartToEnd(int time)
         {
             _stopWatch.StartStopWatch();
-            Thread.Sleep(time); // 5 sec 
+            Thread.Sleep(time); // miliseconds
             var result = _stopWatch.StopStopWatch();
             Assert.That(Math.Round(result.TotalSeconds, 1), Is.EqualTo(TimeSpan.FromMilliseconds(time).TotalSeconds));
         }
@@ -32,7 +32,6 @@ namespace UdemyClassesIntermediate_Tests
         {
             _stopWatch.StartStopWatch();
             Assert.Throws<InvalidOperationException>(() => _stopWatch.StartStopWatch());
-
         }
     }
 }   
