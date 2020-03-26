@@ -1,0 +1,11 @@
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.exe
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.deps.json
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.json
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.pdb
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfo.cs
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\wikto\Desktop\Programowanie\C#\CSh Intermediate\UdemyCShCourseIntermediate\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.pdb
