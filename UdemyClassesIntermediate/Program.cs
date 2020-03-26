@@ -6,7 +6,13 @@ namespace UdemyClassesIntermediate
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SqlConnection sqlConnection = new SqlConnection("Path");
+            OracleConnection oracleConnection = new OracleConnection("Path");
+
+            DatabaseCommand databaseCommandSql = new DatabaseCommand(sqlConnection, "PUT");
+            DatabaseCommand databaseCommandOracle = new DatabaseCommand(oracleConnection, "DELETE");
+            databaseCommandSql.Execute();
+            databaseCommandOracle.Execute();
         }
     }
 }
